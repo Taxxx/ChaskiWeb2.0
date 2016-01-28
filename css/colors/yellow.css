@@ -1,0 +1,185 @@
+/* --------------------------------------
+=========================================
+COLOR : YELLOW
+
+HEX CODE: #F7B542
+=========================================
+----------------------------------------- */
+.preloader:after {
+	border: solid 1px #F7B542;
+}
+
+a {
+	color: #F7B542;
+}
+
+::-moz-selection {
+	background: #F7B542;
+}
+
+::selection {
+	background: #F7B542;
+}
+
+.colored-text {
+	color: #F7B542;
+}
+
+mark {
+	background: #F7B542;
+}
+
+blockquote {
+	border-left: 3px solid #F7B542;
+}
+
+.author {
+	color: #F7B542;
+}
+
+ul.list li:before {
+	background: #F7B542;
+}
+
+.icon-list i {
+	color: #F7B542;
+}
+
+.icon i {
+	border: solid 1px #F7B542;
+	color: #F7B542;
+}
+
+a.icon:hover i {
+	color: #F7B542;
+}
+
+.testimonial-box:hover h5 {
+	color: #F7B542;
+}
+
+.dark-bg input[type=submit]:hover,
+.dark-bg input[type=button]:hover,
+.dark-bg input[type=reset]:hover,
+.dark-bg button:hover,
+.dark-bg .standard-btn:hover {
+	color: #F7B542;
+}
+
+a.secondary-btn.btn {
+	color: #F7B542;
+	border: solid 1px #F7B542;
+}
+
+a.secondary-btn:before {
+	background: #F7B542;
+}
+
+input[type=range]::-webkit-slider-thumb:hover,
+input[type=range]::-webkit-slider-thumb: active {
+	background: #F7B542;
+}
+
+input[type=range]::-moz-range-thumb:hover,
+input[type=range]::-moz-range-thumb: active {
+	background: #F7B542;
+}
+
+input[type=range]::-ms-thumb:hover,
+input[type=range]::-ms-thumb: active {
+	background: #F7B542;
+}
+
+.icon-boxes:after {
+	border: solid 3px #F7B542;
+}
+
+.icon-box i {
+	background: #F7B542;
+}
+
+.icon-box:hover h3 {
+	color: #F7B542;
+}
+
+.navigation {
+	background: #F7B542;
+}
+
+.navigation-links li a:hover {
+	color: #F7B542;
+}
+
+.navigation-links li ul {
+	background: #F7B542;
+}
+
+.fs-navigation-toggle-handle.fs-navigation-enabled {
+	background: #F7B542;
+}
+
+.fs-navigation-toggle-nav.fs-navigation-enabled {
+	background: #F7B542;
+}
+
+.main-line {
+	background: #F7B542;
+}
+
+.statistic span {
+	color: #F7B542;
+}
+
+.portfolio-filters li:hover,
+.portfolio-filters li.active {
+	color: #F7B542;
+}
+
+.single-project {
+	background: #F7B542;
+}
+
+.main-package {
+	border: 1px solid #F7B542;
+}
+
+.main-package .package-header {
+	background: #F7B542;
+}
+
+.main-package .package-header:after {
+	border-top: 20px solid #F7B542;
+}
+
+.main-package .get-started a {
+	color: #F7B542;
+	border: solid 1px #F7B542;
+}
+
+.main-package .get-started a:before {
+	background: #F7B542;
+}
+
+.single-member {
+	background: #F7B542;
+}
+
+.progress-pie-chart.gt-50 {
+    background-color: #F7B542;
+}
+
+.ppc-progress .ppc-progress-fill {
+	background: #F7B542;
+}
+
+.ppc-percents span {
+    color: #F7B542;
+}
+
+.skill h3 {
+	color: #F7B542;
+}
+
+.heart {
+	color: #F7B542;
+}
